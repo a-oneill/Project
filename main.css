@@ -6,6 +6,16 @@ body {
     color: white;
 }
 
+/*
+body {
+    background: url(https://images.unsplash.com/photo-1423846729060-aa8072893e5c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=a227ef2eee6f278077f80dcf0d897c14);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+*/
+
 html {
     height: 100%;
 }
@@ -25,7 +35,7 @@ h1 {
 }
 
 hr {
-    width: 400px;
+    width: 350px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
